@@ -1,2 +1,2 @@
 # PROGRAM
-Repository with a small programs
+Repository with  small programs

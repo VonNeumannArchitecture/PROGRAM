@@ -1,0 +1,16 @@
+0x81	//Befehl: Load Konstante
+0xFB	//Konstante 0xFB
+0x0b	//Befehl: Addiere Konstante
+0x03	//Konstante 0x03
+0x12	//Befehl: Jump if Carry
+0x00	//High-Byte der Adresse
+0x0A	//Low-Byte der Adresse
+0x11	//Befehl: Jump
+0x00	//High-Byte der Adresse
+0x02	//Low-Byte der Adresse
+0x83	//Befehl: Write
+0x00	//High-Byte der Adresse
+0x00	//Low-Byte der Adresse
+0x11	//Sprung
+0x00	//High-Byte der Adresse
+0x0D	//Low-Byte der Adresse
